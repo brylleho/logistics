@@ -1,0 +1,18 @@
+USER1 - Create PO
+	
+	user_create_po
+	user_po_list
+
+USER2 - Property officers
+	
+	prop_office_porr
+	prop_office_po_list
+
+ADMIN - Cherry
+
+	Sarts with admin_po
+	No create user
+
+SUPER ADMIN - Ms. Napoles
+
+	Sarts with admin_po
